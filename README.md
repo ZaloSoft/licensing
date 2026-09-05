@@ -1,2 +1,5 @@
-# licensing
-ZaloSoft™ common license collection.
+![Logo](./assets/all%20purpose/wordmark%20dark%205.png)
+
+# ZaloSoft™ Common License Collection
+
+This repository stores licenses that are commonly used across ZaloSoft™ projects.
