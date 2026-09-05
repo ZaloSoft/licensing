@@ -1,4 +1,4 @@
-![Logo](./assets/all%20purpose/wordmark%20dark%205.png)
+![Logo](https://github.com/ZaloSoft/branding/blob/main/assets/all%20purpose/wordmark%20dark%205.png)
 
 # ZaloSoft™ Common License Collection
 
